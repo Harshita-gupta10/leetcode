@@ -5,13 +5,12 @@ public:
         for(auto i : arr) freq[i]++;
 
         int count = 0;
-        string ans = "";
-        for(int i = 0; i < arr.size(); i++)
+        
+        for(auto& s : arr)
         {
-            if(freq[arr[i]] > 1) continue;
-            count++;
-            if(count == k) ans = arr[i];
+            if(freq[s] == 1 && --k == 0)
+                return s;
         }
-        return ans;
+        return "";
     }
 };
