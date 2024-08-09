@@ -24,12 +24,14 @@
 ## Hash Table
 |  |
 | ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harshita-gupta10/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Harshita-gupta10/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Harshita-gupta10/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harshita-gupta10/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harshita-gupta10/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Harshita-gupta10/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Harshita-gupta10/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harshita-gupta10/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -52,17 +54,20 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Harshita-gupta10/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Harshita-gupta10/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshita-gupta10/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harshita-gupta10/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Harshita-gupta10/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshita-gupta10/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harshita-gupta10/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Harshita-gupta10/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Harshita-gupta10/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Harshita-gupta10/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harshita-gupta10/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Counting
 |  |
 | ------- |
@@ -72,6 +77,7 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Harshita-gupta10/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harshita-gupta10/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Greedy
 |  |
 | ------- |
