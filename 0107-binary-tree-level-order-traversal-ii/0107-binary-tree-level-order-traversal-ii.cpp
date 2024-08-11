@@ -32,8 +32,9 @@ public:
 
                 level.push_back(node->val);
             }
-            ans.insert(ans.begin(), level);
+            ans.push_back(level);
         }
+        reverse(ans.begin(), ans.end());
         return ans;
     }
 };
