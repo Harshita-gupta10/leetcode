@@ -38,24 +38,16 @@ public:
         exit(0);
         return 0;
     }();
-    int leftdepth(TreeNode* root){
-        if(root==NULL)return 0;
-        return 1+leftdepth(root->left);
-    }
-    int rightdepth(TreeNode* root){
-        if(root==NULL)return 0;
-        return 1+rightdepth(root->right);
-    }
-    int totalnodes(TreeNode* root){
-        if(root==NULL)return 0;
-        int lh=1+leftdepth(root->left);
-        int rh=1+rightdepth(root->right);
-        if(lh==rh) return (1<<lh)-1;
-        else{
-            return 1+totalnodes(root->left)+totalnodes(root->right);
-        }
+    void totalnodes(TreeNode* root, int&count)
+    {
+        if(root == NULL) return;
+        count++;
+        totalnodes(root->left, count);
+        totalnodes(root->right, count);
     }
     int countNodes(TreeNode* root) {
-        return totalnodes(root);
+        int count = 0;
+        totalnodes(root, count);
+        return count;
     }
 };
