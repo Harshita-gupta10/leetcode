@@ -62,6 +62,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Harshita-gupta10/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Harshita-gupta10/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Harshita-gupta10/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Harshita-gupta10/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harshita-gupta10/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -87,6 +88,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Harshita-gupta10/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Harshita-gupta10/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Harshita-gupta10/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Harshita-gupta10/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harshita-gupta10/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Counting
 |  |
@@ -128,4 +130,20 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Harshita-gupta10/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Harshita-gupta10/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Harshita-gupta10/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Harshita-gupta10/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Harshita-gupta10/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
