@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Harshita-gupta10/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0921-spiral-matrix-iii](https://github.com/Harshita-gupta10/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Harshita-gupta10/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Harshita-gupta10/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -146,4 +147,8 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Harshita-gupta10/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/Harshita-gupta10/LeetCode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
