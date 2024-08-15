@@ -6,6 +6,7 @@
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Harshita-gupta10/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Harshita-gupta10/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0890-lemonade-change](https://github.com/Harshita-gupta10/LeetCode/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/Harshita-gupta10/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Harshita-gupta10/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Harshita-gupta10/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -114,6 +115,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/Harshita-gupta10/LeetCode/tree/master/0890-lemonade-change) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harshita-gupta10/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
