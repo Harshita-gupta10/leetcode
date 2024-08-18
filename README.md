@@ -124,6 +124,7 @@
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/Harshita-gupta10/LeetCode/tree/master/0263-ugly-number) |
 | [0273-integer-to-english-words](https://github.com/Harshita-gupta10/LeetCode/tree/master/0273-integer-to-english-words) |
 ## Recursion
 |  |
