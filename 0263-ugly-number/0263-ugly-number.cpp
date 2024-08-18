@@ -8,7 +8,6 @@ public:
             else if(n % 5 == 0) n = n/5;
             else return false;
         }
-        if(n==1) return true;
-        return false;
+        return (n==1);
     }
 };
