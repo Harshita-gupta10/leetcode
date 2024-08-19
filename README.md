@@ -128,6 +128,7 @@
 | [0263-ugly-number](https://github.com/Harshita-gupta10/LeetCode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Harshita-gupta10/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Harshita-gupta10/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0650-2-keys-keyboard](https://github.com/Harshita-gupta10/LeetCode/tree/master/0650-2-keys-keyboard) |
 ## Recursion
 |  |
 | ------- |
@@ -169,4 +170,5 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Harshita-gupta10/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/Harshita-gupta10/LeetCode/tree/master/0650-2-keys-keyboard) |
 <!---LeetCode Topics End-->
