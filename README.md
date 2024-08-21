@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Harshita-gupta10/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0664-strange-printer](https://github.com/Harshita-gupta10/LeetCode/tree/master/0664-strange-printer) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Harshita-gupta10/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Harshita-gupta10/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harshita-gupta10/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -174,6 +175,7 @@
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Harshita-gupta10/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/Harshita-gupta10/LeetCode/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/Harshita-gupta10/LeetCode/tree/master/0664-strange-printer) |
 ## Linked List
 |  |
 | ------- |
