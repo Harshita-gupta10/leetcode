@@ -24,7 +24,6 @@ public:
         // right
         solve(root->right, k, count, path);
         
-        // check k sum 
         int size = path.size();
         long long sum = 0;
         for(int i = size - 1; i >= 0; i--)
@@ -32,7 +31,6 @@ public:
             sum += path[i];
             if(sum == k) count++;
         }
-        
         path.pop_back();
     }
     
