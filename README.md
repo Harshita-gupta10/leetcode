@@ -12,6 +12,7 @@
 | [0921-spiral-matrix-iii](https://github.com/Harshita-gupta10/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Harshita-gupta10/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Harshita-gupta10/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2035-count-sub-islands](https://github.com/Harshita-gupta10/LeetCode/tree/master/2035-count-sub-islands) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Harshita-gupta10/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Harshita-gupta10/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/Harshita-gupta10/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -103,6 +104,7 @@
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Harshita-gupta10/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Harshita-gupta10/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harshita-gupta10/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2035-count-sub-islands](https://github.com/Harshita-gupta10/LeetCode/tree/master/2035-count-sub-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -136,6 +138,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Harshita-gupta10/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Harshita-gupta10/LeetCode/tree/master/0226-invert-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harshita-gupta10/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2035-count-sub-islands](https://github.com/Harshita-gupta10/LeetCode/tree/master/2035-count-sub-islands) |
 ## Greedy
 |  |
 | ------- |
@@ -158,6 +161,7 @@
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/Harshita-gupta10/LeetCode/tree/master/0921-spiral-matrix-iii) |
+| [2035-count-sub-islands](https://github.com/Harshita-gupta10/LeetCode/tree/master/2035-count-sub-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -209,4 +213,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshita-gupta10/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Union Find
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/Harshita-gupta10/LeetCode/tree/master/2035-count-sub-islands) |
 <!---LeetCode Topics End-->
