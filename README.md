@@ -34,6 +34,7 @@
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Harshita-gupta10/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0264-ugly-number-ii](https://github.com/Harshita-gupta10/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Harshita-gupta10/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harshita-gupta10/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Harshita-gupta10/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Harshita-gupta10/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -103,6 +104,7 @@
 | [0437-path-sum-iii](https://github.com/Harshita-gupta10/LeetCode/tree/master/0437-path-sum-iii) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Harshita-gupta10/LeetCode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Harshita-gupta10/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Harshita-gupta10/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harshita-gupta10/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2035-count-sub-islands](https://github.com/Harshita-gupta10/LeetCode/tree/master/2035-count-sub-islands) |
 ## Binary Tree
@@ -216,5 +218,10 @@
 ## Union Find
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Harshita-gupta10/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/Harshita-gupta10/LeetCode/tree/master/2035-count-sub-islands) |
+## Graph
+|  |
+| ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Harshita-gupta10/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
