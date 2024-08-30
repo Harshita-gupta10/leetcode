@@ -11,43 +11,33 @@
  */
 class Solution {
 public:
-    static inline auto _ = [] {
-        std::ios::sync_with_stdio(false);
-        std::cin.tie(nullptr);
-        std::ofstream out("user.out", std::ios::out | std::ios::binary);
-        out.rdbuf()->pubsetbuf(nullptr, 256);
-        std::string s;
-        std::noskipws(std::cin);
-        while (std::getline(std::cin, s)) {
-            int count = 0;
-            bool inNum = false;
-            for (char c : s) {
-                if (std::isdigit(c) != 0) {
-                    if (!inNum) {
-                        ++count;
-                        inNum = true;
-                    }
-                } else {
-                    inNum = false;
-                }
-            }
-            out << count << '\n';
+    int findHeightLeft(TreeNode* node) {
+        int height = 0;
+        while (node) {
+            height++;
+            node = node->left;
         }
-        std::skipws(std::cin);
-        out.flush();
-        exit(0);
-        return 0;
-    }();
-    void totalnodes(TreeNode* root, int&count)
-    {
-        if(root == NULL) return;
-        count++;
-        totalnodes(root->left, count);
-        totalnodes(root->right, count);
+        return height;
+    }
+    
+    int findHeightRight(TreeNode* node) {
+        int height = 0;
+        while (node) {
+            height++;
+            node = node->right;
+        }
+        return height;
     }
     int countNodes(TreeNode* root) {
-        int count = 0;
-        totalnodes(root, count);
-        return count;
+        if (root == NULL) 
+            return 0;
+        
+        int lh = findHeightLeft(root);
+        int rh = findHeightRight(root);
+        
+        if (lh == rh) {
+            return (1 << lh) - 1; 
+        }
+        return 1 + countNodes(root->left) + countNodes(root->right);
     }
 };
