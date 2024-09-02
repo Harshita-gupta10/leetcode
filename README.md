@@ -14,6 +14,7 @@
 | [0921-spiral-matrix-iii](https://github.com/Harshita-gupta10/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Harshita-gupta10/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Harshita-gupta10/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Harshita-gupta10/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Harshita-gupta10/LeetCode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Harshita-gupta10/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Harshita-gupta10/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -68,6 +69,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Harshita-gupta10/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Harshita-gupta10/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Harshita-gupta10/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Harshita-gupta10/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Stack
 |  |
 | ------- |
@@ -179,6 +181,7 @@
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/Harshita-gupta10/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0921-spiral-matrix-iii](https://github.com/Harshita-gupta10/LeetCode/tree/master/0921-spiral-matrix-iii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Harshita-gupta10/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Harshita-gupta10/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Bit Manipulation
 |  |
@@ -243,4 +246,8 @@
 |  |
 | ------- |
 | [2803-modify-graph-edge-weights](https://github.com/Harshita-gupta10/LeetCode/tree/master/2803-modify-graph-edge-weights) |
+## Prefix Sum
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Harshita-gupta10/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
